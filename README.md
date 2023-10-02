@@ -1,3 +1,6 @@
+![螢幕擷取畫面 2023-10-02 103955](https://github.com/qwe8496516/FCUProject/assets/92380307/b13aebcd-0cd5-4a0b-9753-684749dc014a)
+
+
 # 軟體開發期末專題 - FCU Project
 
 ### 網頁
